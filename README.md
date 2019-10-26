@@ -1,2 +1,1 @@
-# vta
-Variational Temporal Abstraction (NeurIPS 2019)
+# Variational Temporal Abstraction (VTA)
